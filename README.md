@@ -25,3 +25,10 @@ In aceasta figura, putem observa aceasta are optiuni precum vizualizarea produse
 ![administrator](https://user-images.githubusercontent.com/20753397/211174633-c67e12ee-821e-4dcd-81da-f99e11038953.png)
 
 Administratorul are optiuni precum adaugarea de produse in stoc, stergerea de produse, modificarea de produse, prelucarea comenzilor si realizarea de rapoarte in ce constau comenzile. 
+
+Tipuri de produse care pot fi adaugate in magazinul electronic:
+
+![tip produse administrator](https://user-images.githubusercontent.com/20753397/211174703-e9ce9082-2f82-41ae-8d99-3d16ce3c95a8.png)
+
+Adaugare de produs nou:
+![adaugare produs](https://user-images.githubusercontent.com/20753397/211174744-b41f729e-f54a-4f99-bb93-63fbeae07b7a.png)
